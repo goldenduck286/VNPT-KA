@@ -5579,7 +5579,7 @@ fieldset:disabled .btn {
 .carousel-indicators {
   position: absolute;
   right: 0;
-  bottom: 0;
+  bottom: -55px;
   left: 0;
   z-index: 2;
   display: flex;
@@ -5600,7 +5600,7 @@ fieldset:disabled .btn {
   margin-left: 3px;
   text-indent: -999px;
   cursor: pointer;
-  background-color: #fff;
+  background-color: #ccc;
   background-clip: padding-box;
   border: 0;
   border-top: 10px solid rgba(0, 0, 0, 0);
